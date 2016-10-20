@@ -1,5 +1,7 @@
 logs
 project/project
+project/.boot/
+project/.ivy/
 project/target
 target
 elasticsearch-data
